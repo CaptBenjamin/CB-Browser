@@ -13,7 +13,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>ftp://69.176.89.49/CBBrowser/Install/</PublishUrl>
+    <PublishUrl>W:\LYKNSDeveloper\CBB\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -23,18 +23,18 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>http://69.176.89.49:81/CBBrowser/Install/</InstallUrl>
-    <SupportUrl>http://69.176.89.49/connect</SupportUrl>
-    <ErrorReportUrl>http://69.176.89.49:81/CBBrowser/Install/</ErrorReportUrl>
+    <InstallUrl>https://dev.lykns.tk/CBB/</InstallUrl>
+    <SupportUrl>https://www.lykns.tk/connect</SupportUrl>
+    <ErrorReportUrl>https://www.lykns.tk/</ErrorReportUrl>
     <TargetCulture>zh-CN</TargetCulture>
     <ProductName>CB浏览器</ProductName>
-    <PublisherName>LYK Network System</PublisherName>
+    <PublisherName>LYKNS</PublisherName>
     <SuiteName>CB浏览器</SuiteName>
     <MinimumRequiredVersion>1.0.0.1</MinimumRequiredVersion>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
-    <WebPage>index.htm</WebPage>
-    <ApplicationRevision>3</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.1.1.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
