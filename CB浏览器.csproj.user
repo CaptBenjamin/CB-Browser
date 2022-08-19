@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://69.176.89.49/CBBrowser/Install/|ftp://69.176.89.49/CBBrowser/|ftp://69.176.89.49:22/CBBrowser/|ftp://69.176.89.49:22/LYKClientonWindows/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://69.176.89.49:81/CBBrowser/Install/|http://69.176.89.49:81/CBBrowser/|http://69.176.89.49/insiderpreview/CBBrowser/|http://69.176.89.49/insiderpreview/LYKClientonWindows/|http://localhost:8080/</InstallUrlHistory>
+    <SupportUrlHistory>http://69.176.89.49/connect|http://69.176.89.49/insiderpreview/CBBrowser/</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory>http://69.176.89.49:81/CBBrowser/Install/|http://69.176.89.49:81/BJW/Install|http://69.176.89.49/insiderpreview/CBBrowser/</ErrorReportUrlHistory>
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

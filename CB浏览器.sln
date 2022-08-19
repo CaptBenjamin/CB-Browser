@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CB浏览器", "CB浏览器.csproj", "{33559D0E-612D-4DD0-B26F-0F8DFC0F49AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33559D0E-612D-4DD0-B26F-0F8DFC0F49AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33559D0E-612D-4DD0-B26F-0F8DFC0F49AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33559D0E-612D-4DD0-B26F-0F8DFC0F49AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33559D0E-612D-4DD0-B26F-0F8DFC0F49AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F690CCC-E67B-495D-92DF-4DEF476FC976}
+	EndGlobalSection
+EndGlobal

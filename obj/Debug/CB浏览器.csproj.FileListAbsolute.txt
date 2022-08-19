@@ -1,0 +1,11 @@
+D:\source\repos\CB浏览器\bin\Debug\CB浏览器.exe.config
+D:\source\repos\CB浏览器\bin\Debug\CB浏览器.exe
+D:\source\repos\CB浏览器\bin\Debug\CB浏览器.pdb
+D:\source\repos\CB浏览器\obj\Debug\CB浏览器.Form1.resources
+D:\source\repos\CB浏览器\obj\Debug\CB浏览器.Properties.Resources.resources
+D:\source\repos\CB浏览器\obj\Debug\CB浏览器.csproj.GenerateResource.cache
+D:\source\repos\CB浏览器\obj\Debug\CB浏览器.csproj.CoreCompileInputs.cache
+D:\source\repos\CB浏览器\obj\Debug\CB浏览器.exe
+D:\source\repos\CB浏览器\obj\Debug\CB浏览器.pdb
+D:\source\repos\CB浏览器\obj\Debug\CB浏览器.csprojAssemblyReference.cache
+D:\source\repos\CB浏览器\obj\Debug\CB浏览器.AboutBox1.resources
